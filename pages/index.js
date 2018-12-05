@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import fetch from 'isomorphic-unfetch';
 
-
 const apiKey = '4595dd0633db4f6c891b62ee796644f1';
 
 // Initial News source
